@@ -8,6 +8,7 @@ This **Clinic Database** provides a structured way to manage essential clinic da
 - **Staff Records**: Doctors, nurses, administrative staff.
 - **Appointment Scheduling**: Tracks appointments between patients and medical staff.
 - **Prescription Management**: Stores patient prescriptions and treatment records.
+- **Users Registration**: Saves the username and password for the Login credentials.
 
 ## 🛠️ Technologies Used
 
