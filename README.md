@@ -30,11 +30,3 @@ This project was developed as part of the **Specialist Technician in Information
 ## 📝 License
 Feel free to use and modify this project for educational purposes.
 
-
-### Explanation of each section:
-- **Project Overview**: Summarizes what the database handles and the purpose of the project.
-- **Technologies Used**: Lists the key technologies and languages.
-- **Setup Instructions**: Provides clear steps on how to set up the database locally, including the SQL command to import the database.
-- **Related Projects**: Links to your **Clinic Website** repository to demonstrate how the website interacts with the database.
-- **Course Information**: A brief mention that it's a course project to provide context.
-- **License**: Letting others know they can use and modify the project for educational purposes.
