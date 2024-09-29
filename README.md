@@ -4,10 +4,10 @@ A **MySQL** database for a **clinic management system**, developed as part of a 
 ## 📋 Project Overview
 
 This **Clinic Database** provides a structured way to manage essential clinic data, including:
-- **Patient Records**: Personal details, medical history, appointments.
+- **Patient Records**: Personal details, medical appointments and prescriptions.
 - **Staff Records**: Doctors, nurses, administrative staff.
 - **Appointment Scheduling**: Tracks appointments between patients and medical staff.
-- **Prescription Management**: Stores patient prescriptions and treatment records.
+- **Prescription Management**: Stores patient prescriptions and treatment instructions.
 - **Users Registration**: Saves the username and password for the Login credentials.
 
 ## 🛠️ Technologies Used
